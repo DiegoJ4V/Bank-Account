@@ -1,0 +1,350 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Diego",
+      "surnames": "Guadarrama Hernández",
+      "title": "Full Stack Web Developer | Spring, React",
+      "description": "Enthusiast in the web ecosystem with React and Spring. Self-taught bilingual who will not hesitate to research and look for whatever it takes to create in code whatever I can imagine.",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJU1NoiDs6BIQREZgJa760ZO0)",
+        "country": "México"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/diegoj4v"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/DiegoJ4V"
+      },
+      {
+        "type": "other",
+        "URL": "https://diegoj4v.github.io/My-website",
+        "description": "Personal website"
+      }
+    ]
+  },
+  "experience": {
+    "projects": [
+      {
+        "details": {
+          "name": "Bank account",
+          "description": "Single page application, and simulation of bank system, build with react and spring, deployed in Azure.\n\nFeatures:\n\n- Material design\n- Transactions system, and the ability to automate them\n- A responsive design with light and dark mode\n- Translation for English and Spanish language\n- Security system based in jwt and tokens\n- CI/CD with github actions\n- Testing with junit and spring for Java\n- Testing with vitest, msw, and react testing library for Javascript\n- Components, and pages with interaction tests with [Storybook](https://main--655be6596e99394a8927c77d.chromatic.com/)\n ❗ Caution: Storybook has problems with the mobile version\n- Api documentation using [swagger](https://bankback.azurewebsites.net/swagger-ui/index.html#)\n- Documentation with JSDoc and Javadoc",
+          "URL": "https://jolly-pond-019ae8010.4.azurestaticapps.net/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/29/2910ec01-921c-47bd-b8bc-e2d49083e108_bankpage.png",
+            "alt": "BankPage.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-05-01",
+            "competences": [
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Github Actions",
+                "type": "technology"
+              },
+              {
+                "name": "Gradle",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JUnit",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "NPM",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Storybook",
+                "type": "technology"
+              },
+              {
+                "name": "Swagger",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "Vite",
+                "type": "technology"
+              },
+              {
+                "name": "Vitest",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2023-11-01"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github Actions",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gradle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JUnit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Maven",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NPM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Storybook",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Swagger",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vite",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vitest",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Resistance to frustration",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/diegoj4v",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/DiegoJ4V",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "diegoj4v@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "5566338058",
+          "countryCode": "+52"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "Github",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "Spring Boot",
+        "type": "technology"
+      },
+      {
+        "name": "Storybook",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Me gustaría un empleo donde poder poner en práctica en casos reales todo lo que he aprendido, y donde se me apoye en los problemas que tenga, para así crecer como desarrollador y como persona, gracias a todo ese apoyo que se me ha dado.",
+    "projects": [
+      {
+        "name": "Bank account"
+      }
+    ]
+  }
+}
