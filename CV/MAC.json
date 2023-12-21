@@ -9,7 +9,11 @@
       "name": "Diego",
       "surnames": "Guadarrama Hernández",
       "title": "Full Stack Web Developer | Spring, React",
-      "description": "Enthusiast in the web ecosystem with React and Spring. Self-taught bilingual who will not hesitate to research and look for whatever it takes to create in code whatever I can imagine.",
+      "description": "Enthusiastic in the web ecosystem with React and Spring. Bilingual self-taught who will not hesitate to research and look for whatever it takes to create in code whatever he imagines.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/21/43f74689-d2bd-48af-829d-5fc7ff2c8fe8_linkedin-photo-40799.linkedin-photo-40799",
+        "alt": "23/12/21/43f74689-d2bd-48af-829d-5fc7ff2c8fe8_linkedin-photo-40799.linkedin-photo-40799"
+      },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJU1NoiDs6BIQREZgJa760ZO0)",
         "country": "México"
@@ -18,7 +22,7 @@
     "relevantLinks": [
       {
         "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/diegoj4v"
+        "URL": "https://linkedin.com/in/diegoj4v"
       },
       {
         "type": "github",
@@ -270,27 +274,13 @@
           "type": "technology"
         }
       }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Continuous learning",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Resistance to frustration",
-          "type": "practice"
-        }
-      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "URL": "https://www.linkedin.com/in/diegoj4v",
+          "URL": "https://linkedin.com/in/diegoj4v",
           "type": "linkedin"
         },
         {
